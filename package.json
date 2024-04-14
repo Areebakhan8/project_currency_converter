@@ -1,12 +1,10 @@
 {
-  "name": "currency_converter_by_ak",
+  "name": "project05-currency-converter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin": {
-    "currency_converter_by_ak": "index.js"
-  },
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
